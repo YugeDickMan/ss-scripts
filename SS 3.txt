@@ -1,0 +1,736 @@
+require(3117546674):Fire('Your Roblox Username') script for Gunjourer
+ 
+require(3117564747):Fire('Your Roblox Username') script for Magic Power
+
+require(3117661544):Fire('Your Roblox Username') script for Dual Ultima
+
+require(3117669110):Fire('Your Roblox Username') script for a Titan (broken)
+
+require(3117679218):Fire('Your Roblox Username') script for god and bad cop
+
+require(3117682928):Fire('Your Roblox Username') script for Glitch Master
+
+require(3117687124):Fire('Your Roblox Username')script for Brutal Overlord
+
+require(3117694773):Fire('Your Roblox Username') script for ???
+
+require(3117697757):Fire('Your Roblox Username') script for ???
+
+require(3117706978):Fire('Your Roblox Username') script for Nebula (borken)
+
+require(3117712774):Fire('Your Roblox Username') script for ???
+
+require(3117717032):Fire('Your Roblox Username') script for John Wik
+
+require(3117721105):Fire('Your Roblox Username') script for Karmapange
+
+require(3117724565):Fire('Your Roblox Username') script for ???
+
+require(3117564747):Fire('Your Roblox Username') script for Magic power
+
+require(2681865333):Fire('ok', 'Your Roblox Username') script for grab Knive V4
+
+Grab Knife V1: require(2836693511):Fire('Your Roblox Username','i baked you a pie')
+
+Grab Knife V2: require(2845941230):Fire('Your Roblox Username','i baked you a pie')
+
+Grab Knife V3: require(2829943043):Run('Your Roblox Username','i baked you a pie')
+
+ShotGun - require(03114598550):Fire("Your Roblox Username")
+
+Matteo's gun - require(03099649438).load("Your Roblox Username")
+
+Rare Sword - require(03099697999).load("Your Roblox Username")
+
+Rainbow Titan - require(03099691224).load("Your Roblox Username")
+
+Matteo's Flamethrower - require(03099659288).load("Your Roblox Username")
+
+Eraser - require(03099667517).load("Your Roblox Username")
+
+Vape - require(03099678440).load("Your Roblox Username")
+
+Dualecider - require(2790149731):Run('Your Roblox Username')
+
+Scary ambient(by me lol) - require(03099579132).load("Your Roblox Username")
+
+lOsT hOpE - require(3098076859).load("Your Roblox Username")
+
+Lost Bye Bye - require(03099474099).load("Your Roblox Username")
+
+You are an idiot - require(03095188600).load("Your Roblox Username")
+
+kys - require(03095160836).load("Your Roblox Username")
+
+Mexican/Russian doge- require(3095125182).load("Your Roblox Username")
+
+YOU NEED JESUS - require(3086965141):executeModule("Your Roblox Username")
+
+Mr.Pixels - require(2995020929):Fire("oof","Your Roblox Username)
+
+require(03095105955).load("Your Roblox Username")
+
+Pizza Guy - require(02980464351).load("Your Roblox Username")
+
+Moonman (KKK) - require(03095022841).load("Your Roblox Username")
+
+SS GUI - require(03090163777).load("Your Roblox Username")
+
+UTG GUI - require(2993514878):Fire("Your Roblox Username")
+
+A GUI - require(3058559294).load("Your Roblox Username")
+
+Darth Vader - require(02980473200).load("Your Roblox Username")
+
+Drunk Guy - require(03087849096).load("Your Roblox Username")
+
+Purple Guy - require(03087845888).load("Your Roblox Username")
+
+Ice Cream - require(3087708111).load("Your Roblox Username")
+
+wHAT ANOTHER ONE - require(03029193386):Fire("Your Roblox Username")
+
+Elo Blasio - require(2891645338).sans('undertale','"Your Roblox Username")
+
+Jojo Boie - require(3034302901):Fire("Your Roblox Username")
+
+WYD - require(2851043168).load("Your Roblox Username")
+
+TopKEK - require(2609384717).load("Your Roblox Username")
+
+My executor - require(3084491250).load("Your Roblox Username")
+
+Unanchor all - require(03066959022):Fire("Your Roblox Username")
+
+PUBG Pan - require(03078332852):Fire("Your Roblox Username")
+
+Insanity (C Throw head | T omg) - require(2787111216):Run('Your Roblox Username')
+
+SworD OmGG!11 - require(2972237186).load("Your Roblox Username")
+
+require(2838415098).load("Your Roblox Username")
+
+Quantom Rewritten (Press P for commands) - require(3048207279):Fire('kermitwashere,ok','Your Roblox Username')
+
+D E S P A C I T O - require(3047657890).load("Your Roblox Username")
+
+Pumpkin - require(3049265208).load("Your Roblox Username")
+
+Ragdoll pan - require(2965793312):Fire'Your Roblox Username'
+
+Big Smoke - require(3020580481).load("Your Roblox Username")
+
+Gaster v2 - require(03055189528):Fire('magic', 'Your Roblox Username')
+
+Glitchtale Sans - require(03055204441):Fire('magic', 'Your Roblox Username')
+
+Ali - require(03058494498):Fire('wowbitch', 'Your Roblox Username')
+
+Waifu (Press F for weapon) - d e l e t e d
+
+Lustris V2 Sword - require(03043920983).load("Your Roblox Username")
+
+Edited Clock - require(03044614752).isabean("Your Roblox Username")
+
+Pharaoh - require(03040190745):Fire('ok', 'Your Roblox Username')
+
+Force Choke Press F - require(03040161634).load("Your Roblox Username")
+
+Banisher Gun - require(03036310824):Fire("Your Roblox Username")
+
+Adventure Gun - require(03040142902).load("Your Roblox Username")
+
+Ravager From Another World - require(03040216295):Fire('ok', 'Your Roblox Username')
+
+Twin Beast - require(03044605468).load("Your Roblox Username")
+
+Anti Virus - require(03014436659):Fire("Your Roblox Username")
+
+OP Wings - require(2974865618).load("Your Roblox Username")
+
+Wind - require(3049279453).load("Your Roblox Username")
+
+Deathspace gun (converted by me) - require(3044932459).load("Your Roblox Username")
+
+Big ban - require(2594357090).bban("Your Roblox Username")
+
+Tornado - require(03090451296).load("Your Roblox Username","ok")
+
+i don't know - require(3047598236).load("Your Roblox Username")
+
+Dual Rainbow Swords (no damage but cool) - require(3049247133).load("Your Roblox Username")
+
+Gun (no damage) - require(3047570984).load("Your Roblox Username")
+
+Galaxy titan (converted by me) - require(3044815598).load("Your Roblox Username")
+
+c00l kids mml admin (best) - require(3043952668).MMLHax("Your Roblox Username","mmlhax")
+
+Mr.byebye - require(2595582545).mbye("Your Roblox Username")
+
+Nel Sword - require(03036813100):Fire('ok',"Your Roblox Username")
+
+Cop - require(2965948588):Fire'Your Roblox Username'
+
+ahhh fresh meat - require(3033793706):Fire("Your Roblox Username")
+
+OP Sword v2 - require(2972237186).load("Your Roblox Username")
+
+Pee - require(2972136307).load("Your Roblox Username")
+
+Lenny - require(2972140055).load("Your Roblox Username")
+
+Frostmaestro - require(03029184882):Fire("Your Roblox Username")
+
+OP Sword - require(2974887540).load("Your Roblox Username")
+
+Mustard Gas - require(3034350356):Fire("Your Roblox Username")
+
+Blight - require(03032553216):Ayy('Your Roblox Username',YoFatAss)
+
+Cream - require(03029623677):Fire("Your Roblox Username")
+
+Jihad - require(03009637137):Fire("Your Roblox Username")
+
+Smite - require(03032530303):Ayy('Your Roblox Username',YoFatAss)
+
+Smite Green - require(03032545610):Ayy('Your Roblox Username',YoFatAss)
+
+Vuxul Forest - require(02999259749):Fire("Your Roblox Username")
+
+galaxy titan - require(02996640215):Fire("Your Roblox Username")
+
+Super Hungry McNoobington - require(2972165308).load("Your Roblox Username")
+
+GhossDeeri Titan - require(02996649066):Fire("Your Roblox Username")
+
+Sans meme titan - require(02996631394):Fire("Your Roblox Username")
+
+Orange Titan - require(02996616591):Fire("Your Roblox Username")
+
+Shacklusters's Knife - require(02976158688):Fire("Your Roblox Username")
+
+Galaxy Glitcher - require(03032833847):Fire("Your Roblox Username")
+
+Duel Ultima - require(03037197815):Fire('ok', 'Your Roblox Username')
+
+World Eater - require(03030699117):Ayy('Your Roblox Username',YoFatAss)
+
+Golden Gun - require(02999251492):Fire("Your Roblox Username")
+
+Van: require(2973851516).load("Victim") 
+
+Shedletsky - require(02985469082):Fire("Your Roblox Username")
+
+Baby nelf - require(02982788874):Fire("Your Roblox Username")
+
+Giga Vanta - require(02982754216):Fire("Your Roblox Username")
+
+Chain Magician - require(02999312168):Fire("Your Roblox Username") 
+
+Dex Explorer - require(3032468625):Fire("Your Roblox Username")
+
+Buster XTerminators - require(02990100969):Fire("Your Roblox Username")
+
+Noob Bat - require(3037388211).load("Your Roblox Username") --Press X to equip tool
+
+Neptunian V - require(03036869449):Fire('ok', 'Your Roblox Username')
+
+Powerfull Circle Ground Breaker Gauntlet - require(03033019849):Fire("Your Roblox Username")
+
+Dark Eccentric(musicremovedLOL) - require(02982823714):Fire("Your Roblox Username")
+
+Kaerin - require(02985585381):Fire("Your Roblox Username")
+
+Scythe require(02976955177):Fire("Your Roblox Username")
+
+bong pong - require(02976165861):Fire("Your Roblox Username")
+
+Rare MML admin - require(2808676257):hack'Your Roblox Username'
+
+op sw0rd - require(03036820492):Fire('ok', 'Your Roblox Username')
+
+Suicide gun - require(3023538289).load("Your Roblox Username")
+
+require(2861672947):Fire("Your Roblox Username") -- Memeus v2.5
+
+require(2861694480):Fire("Your Roblox Username") -- ink monster
+
+require(2861723416):Fire("Your Roblox Username") -- WAOV2
+
+require(2861780653):Fire("Your Roblox Username") -- studio
+
+require(2861818882):Fire("Your Roblox Username") -- big boi
+
+require(2861843468):Fire("Your Roblox Username") -- some gun kid (its cool)
+
+require(2883841783):Fire("Your Roblox Username") -- Super mario
+
+require(2884020362):Fire("Your Roblox Username") -- Reaper
+
+require(2884027944):Fire("Your Roblox Username") -- Gomu Powers
+
+require(2884046764):Fire("Your Roblox Username") -- Creterisk Banhammer
+
+require(2884064708):Fire("Your Roblox Username") -- Scanning Device
+
+require(2884102879):Fire("Your Roblox Username") -- Star Platinum
+
+require(2884125095):Fire("Your Roblox Username") -- Nirite
+
+require(2884157093):Fire("Your Roblox Username") -- Gale Fighter
+
+require(2884164311):Fire("Your Roblox Username") -- Parkour (need walls for this)
+
+require(2884173673):Fire("Your Roblox Username") -- Shedletsky Rage
+
+require(2884182226):Fire("Your Roblox Username") -- Maddox
+
+require(2884189262):Fire("Your Roblox Username") -- Video powers
+
+require(2884196270):Fire("Your Roblox Username") -- Infinite
+
+require(2884206218):Fire("Your Roblox Username") -- big daddy
+
+Noob Switcher V2 - require(03099386833).load("Your Roblox Username")
+
+True Hero Ultima - require(03036813100):Fire('ok', 'Your Roblox Username')
+
+I don't know admin - require(2848219801):Fire('kermitwashere,ok','Your Roblox Username')
+
+Purple Heart Sword - require(03036884709):Fire('ok', 'Your Roblox Username') 
+
+Star glitcher - require(2930987220).load('Your Roblox Username')
+
+Banisher Gun V.0 - require(03036310824):Fire("Your Roblox Username")
+
+Hat Kid - require(03036298160):Fire("Your Roblox Username")
+
+Xyphon Stone Hammer - require(03036276038):Fire("Your Roblox Username")
+
+Some random GUI - require(2904213233):Fire('Your Roblox Username','i baked you a pie')
+
+Xester - require(2918747265).load("Your Roblox Username")
+
+jump on the C A A C - require(2966615277):Fire("Your Roblox Username")
+
+Krystal Dance - require(2881162369):Fire('Your Roblox Username','i baked you a pie')
+
+Killbot - require(2954028244).load("Your Roblox Username")
+
+Meteor Power - require(2967655899).load("Your Roblox Username") 
+
+The Glitch - require(2967664291).load("Your Roblox Username") 
+
+Kartic - require(2967687879).load("Your Roblox Username")
+
+Shackluster wheelies - require(2967700018).load("Your Roblox Username")  
+
+Internal War - require(2967724627).load("Your Roblox Username")
+
+Dominus Corona - require(2967742797).load("Your Roblox Username")
+
+require(3023953976).load("Your Roblox Username") -- CreteriskBan Hammer
+
+require(3024044769).load("Your Roblox Username") -- ShackLuster's BanHammer
+
+require(3024569233).load("Your Roblox Username") -- ToadRoast
+
+require(3024624301).load("Your Roblox Username") -- Pandora 
+
+require(3024848196).load("Your Roblox Username") -- Illuminati
+
+require(3024874104).load("Your Roblox Username") --  Dual Ultima
+
+require(3024941794).load("Your Roblox Username") -- Draw script
+
+require(3024959054).load("Your Roblox Username") -- God's abandoned daugher
+
+require(3024043748):Start("Your Roblox Username","AAA") -- Gear stuff (detain, taze, molotov)
+
+require(2992183083):Fire("Your Roblox Username") -- RunicTunes
+
+require(2992203195):Fire("Your Roblox Username") -- TrigorMortis
+
+require(2992217896):Fire("Your Roblox Username") --  Horse
+
+require(2992242058):Fire("Your Roblox Username") -- AWM
+
+require(2992280097):Fire("Your Roblox Username") --  Ban hammer
+
+require(2992285145):Fire("Your Roblox Username") -- Proteus
+
+require(2992289083):Fire("Your Roblox Username") -- Scp 178
+
+require(2992306347):Fire("Your Roblox Username") -- meme dances
+
+require(2992309678):Fire("Your Roblox Username") -- Astronaut 13
+
+require(2992330335):Fire("Your Roblox Username") -- Kirito blades
+
+require(2992336852):Fire("Your Roblox Username") -- Banisher infinite
+
+require(2992342114):Fire("Your Roblox Username") -- AK
+
+require(2992345670):Fire("Your Roblox Username") -- Flaming sythe
+
+require(2910377270).load"Your Roblox Username" -- Nebula Star Glitcher (pornhubmode)
+
+require(2571067295).load("Your Roblox Username") -- F3X Tools
+
+require(2856028839):Fire('Your Roblox Username','i baked you a pie') -- v a p o r w a v e gun
+
+--here comes grab knife
+
+Grab Knife V1: require(2836693511):Fire('Your Roblox Username','i baked you a pie')
+
+
+Grab Knife V2: require(2845941230):Fire('Your Roblox Username','i baked you a pie')
+
+
+Grab Knife V3: require(2829943043):Run('Your Roblox Username','i baked you a pie')
+
+
+Grab Knife V4: require(2845928453):Fire('Your Roblox Username','i baked you a pie')
+
+--end
+
+Uganda Knuckles: require(2849713774):Fire('Your Roblox Username','i baked you a pie')
+
+Meme Jevil: require(2855997192):Fire('Your Roblox Username','i baked you a pie')
+
+Voodoo Child Meme: require(2858514503):Fire('Your Roblox Username','i baked you a pie')
+
+Trap Rifle: require(2858526948):Fire('Your Roblox Username','i baked you a pie')
+
+Boom X4: require(2830670878):Run('Your Roblox Username','i baked you a pie')
+
+Darkage Wristbands: require(2841203226):Fire('Your Roblox Username','i baked you a pie')
+
+Hell's Door: require(2841174713):Fire('Your Roblox Username','i baked you a pie')
+
+John Doe: require(2841156534):Fire('Your Roblox Username','i baked you a pie')
+
+Doki Doki DIE: require(2849585171):Fire('Your Roblox Username','i baked you a pie')
+
+Deadeye: require(2849593796):Fire('Your Roblox Username','i baked you a pie')
+
+Angel: require(2849601715):Fire('Your Roblox Username','i baked you a pie')
+
+Da Warden: require(2849623031):Fire('Your Roblox Username','i baked you a pie')
+
+require(2841156534):Fire('Your Roblox Username','i baked you a pie') -- John Doe module
+
+Insanity Powers: require(2787111216):Run('Your Roblox Username','i baked you a pie')
+
+Sin Unleashed: require(2787132106):Run('Your Roblox Username','i baked you a pie')
+
+Dualecider: require(2790149731):Run('Your Roblox Username','i baked you a pie')
+
+Unexpected Item: require(2796959576).Run()
+
+Voodoo Child: require(2797271382):Run('Your Roblox Username','i baked you a pie')
+
+Kermit Gui: require(2797382794):Kermit('Your Roblox Username')
+
+IS GONE!!: require(2800498919):Run('Your Roblox Username','i baked you a pie')
+
+Country Roads Admin: require(2808676257):hack'Your Roblox Username'
+
+Gun Giver: require(2823974237).giveGuns'Your Roblox Username'
+
+Psychocider: require(2866649197):Fire('Your Roblox Username','i baked you a pie')
+
+Stupid GUI: require(2904213233):Fire('Your Roblox Username','i baked you a pie')
+
+khols admin epix edit: require(522666193).giveAdmin("Your Roblox Username")
+
+Star Glitcher   working: require(2930987220).load('Your Roblox Username')
+
+spectrum glitcher wokring: require(2844773931).load("Your Roblox Username")
+
+memes animations: require(2860424822)("Your Roblox Username","memes")
+
+Koolaid Man: require(2923173766):Kermit('Your Roblox Username',game.JobId)
+
+Xester: require(2918747265).load("Your Roblox Username")
+
+Krystal Dance V2: require(2881162369):Fire('Your Roblox Username','i baked you a pie')
+
+Memeus V3: require(2881262129):Fire('Your Roblox Username','i baked you a pie')
+
+Kermit Chathax: require(2906086283):Fire('Your Roblox Username','PsevQrhKhxNxNcf')
+
+Cart: require(2945393344).load"Your Roblox Username"
+
+Rick And Morty Remote: require(2944367975).load"Your Roblox Username"
+
+Pen: require(2913342850).load"Your Roblox Username"
+
+Pokeball: require(2945268608).load"Your Roblox Username"
+
+Cop: require(2874956884):Fire("Your Roblox Username") 
+
+Scp 106: require(2913616665).load("Your Roblox Username") 
+
+Eyo-Zen: require(2965943657):Fire("Your Roblox Username")
+
+Agent Agony: require(2877501109):Fire("Your Roblox Username")
+[AGENT HOTKEYS: Y, F, T, Z, V, M]
+
+Rifle: require(2908373119):Fire("Your Roblox Username","i baked you a pie")
+
+Golden Spinning Clock: require(2956258470).load("Your Roblox Username")
+
+Ban Hammer: require(2953959989).load("Your Roblox Username")
+
+Reaper V2: require(2954013343).load("Your Roblox Username")
+
+Killbot: require(2954028244).load("Your Roblox Username")
+
+Rainbow Sword/Knife: require(2954081775).load("Your Roblox Username")
+
+BloxWatch: require(2954138784).load("Your Roblox Username")
+
+Void Boss: require(2954172081).load("Your Roblox Username")
+
+Dual Pink Guns: require(2954190022).load("Your Roblox Username")
+
+Ender: require(2966080890):Fire("Your Roblox Username")
+
+RuinEX: require(2966133043):Fire("Your Roblox Username")
+
+Inked Monster: require(2966186555):Fire("Your Roblox Username")
+
+Chara X[SOMETIMES GLITCHY]: require(2966195744):Fire("Your Roblox Username")
+
+Huge Baseplate: require(2944212977).loadmap()
+
+Cloud Visualizer: require(2966240496):Fire("Your Roblox Username")
+[Cloud Visualizer Commands: !play SONGID !snow !rain !multiplier !volume 1-100 CHOOSE ONE]
+
+Absylum V2: require(2966286498):Fire("Your Roblox Username")
+
+Cube Of Polaris[useless]: require(2966359198):Fire("Your Roblox Username")
+
+Plague Doctor: require(2966334796):Fire("Your Roblox Username")
+
+Rocketeer: require(2966449101):Fire("Your Roblox Username")
+
+Lunar Gauntlet:require(2966463800):Fire("Your Roblox Username")
+[DON'T PRESS V OR IT GETS STUCK]
+
+Aura Katana: require(2966514820):Fire("Your Roblox Username")
+
+Super Sonic Running: require(2966563614):Fire("Your Roblox Username")
+
+Hands purple projectile shooting: require(2966580162):Fire("Your Roblox Username")
+
+SCP-999 GHOST[CAN'T MOVE JUST RESPAWN]: require(2966604558):Fire("Your Roblox Username")
+
+Jump in the caac[looses time track]:require(2966615277):Fire("Your Roblox Username")
+
+Bullet Bill[RESPAWN AFTER USE]: require(2966631086):Fire("Your Roblox Username")
+
+Heavy[Broken]: require(2966638096):Fire("Your Roblox Username")
+
+OP AIR MAGIC [WONT KILL OTHERS]:require(2966766781):Fire("Your Roblox Username")
+
+Hokuto shinken: require(2966795270):Fire("Your Roblox Username")
+
+The Box: require(2966790795):Fire("Your Roblox Username")
+
+Dark Sword, Shield: require(2966786815):Fire("Your Roblox Username")
+
+Noob: require(2969429312):Fire("Your Roblox Username")
+
+Caducus: require(2969642892):Fire("Your Roblox Username")
+
+Inferno: require(2969919470):Fire("Your Roblox Username")
+
+God Slayer: require(2969861340):Fire("Your Roblox Username")
+
+Agent Wheseker: require(2969940144):Fire("Your Roblox Username")
+
+Video Power: require(2969906143):Fire("Your Roblox Username")
+
+Pan: require(2965793312):Fire'Your Roblox Username'
+
+Gorrupt Vectorist: require(2967640429).load("Your Roblox Username")
+
+Meteor Powers: require(2967655899).load("Your Roblox Username")
+
+The Glitch: require(2967664291).load("Your Roblox Username") 
+
+Kartic: require(2967687879).load("Your Roblox Username")
+
+Shackluster wheelies: require(2967700018).load("Your Roblox Username")  
+
+Internal War: require(2967724627).load("Your Roblox Username")
+
+Dominus Corona: require(2967742797).load("Your Roblox Username")
+
+500 Pound Ball: require(2967750712).load("Your Roblox Username")
+
+Baldi [PRESS F]: require(2967798014).load("Your Roblox Username")
+
+Skull Kid: require(2967848153).load("Your Roblox Username")
+
+Zamazu: require(2971448618):Fire("Your Roblox Username")
+
+Blue Titan: require(2971509487).load("Your Roblox Username")
+
+Red Titan: require(2974204001).load("Your Roblox Username")
+
+Ravenger: require(2971559360).load("Your Roblox Username") 
+
+Nuclear Gun: require(2974012915).load("Your Roblox Username")
+
+Golden Gun: require(2977809408):Fire("Your Roblox Username")
+
+Shinobi Armor: require(2974055072).load("Your Roblox Username")
+[F = FIRE MODE, G = FIGHT MODE]
+
+Zeus Staff: require(2974181326).load("Your Roblox Username") 
+
+Green Claws: require(2974223397).load("Your Roblox Username") 
+
+JOJO Girl?: require(2975155038).load("Your Roblox Username")
+
+Allah Akbar: require(2974869441).load("Your Roblox Username")
+
+Bleach: require(2975480225).load("Your Roblox Username")
+
+The World Gauntlets: require(2975213751).load("Your Roblox Username")
+
+Red Blood Scythe: require(2971800799).load("Your Roblox Username")
+
+Assasin's Creed Gauntlet: require(2971859278).load("Your Roblox Username")
+
+require(2920346640).load"Your Roblox Username" - blue scythe
+
+require(2920356282).load"Your Roblox Username" - LAZOR sniper
+
+require(2920373744).load"Your Roblox Username" - Zerioth Recreated
+
+require(2920382269).load"Your Roblox Username" - Shotgun with wings
+
+require(2751513564).load"Your Roblox Username" - Grenade
+
+require(2500605002).give"Your Roblox Username" - MML Admin
+
+require(2500657841).load"Your Roblox Username" - Van
+
+require(2500743596).load"Your Roblox Username" - Server Destroyer GUI
+
+require(2500686011).load"Your Roblox Username" - Troll GUI
+
+require(2500710590).load"" - Keemstar All
+
+require(2500701749).load"Your Roblox Username" - Cafe Griefer GUI
+
+require(2505714651).fuc("victim","Your Roblox Username") - Rape
+
+require(2505737607).load"Your Roblox Username" - UVG
+
+require(2505751313).load"" - Zombie Horde
+
+require(2508391080).load"Your Roblox Username" - Thanos Hand
+
+require(2603280675).load"Your Roblox Username" - Nuke
+
+require(2609384717).load"Your Roblox Username" - Topkek 3.0
+
+require(2959521988).ooga"Your Roblox Username" - Really Mad Guy
+
+require(2959535061).load"Your Roblox Username" - Rufus Grab Knife
+
+require(2959540822).load("fun for the whole family",game.Players.Your Roblox Username) - Van GUI
+
+require(2918747265).load"Your Roblox Username" - Xester
+
+require(2856360953).load"Your Roblox Username" - Memeus V2
+
+require(2855602591).load"Your Roblox Username" - Doritos
+
+require(2831237761).load"Your Roblox Username" - Minigun
+
+require(2871277680).load"Your Roblox Username" - Noob that eats
+
+require(2855989248).load"Your Roblox Username" - Memeus V1
+
+require(2946634514).load"Your Roblox Username" - Caducus the Fallen God
+
+require(2945922105).load"Your Roblox Username" - Sniper
+
+require(2870923100).load"Your Roblox Username" - Reaper
+
+require(2946965085).load"Your Roblox Username" - Nuke
+
+require(2737070070).load"Your Roblox Username" - Insane/Dab GUI
+
+require(2552620429).load"Your Roblox Username" - UFO
+
+require(522666193).giveAdmin"Your Roblox Username" - Epix
+
+require(519455802).giveAdmin"Your Roblox Username" - Kohls
+
+require(2113801730).load"Your Roblox Username" - Noot
+
+require(2939504811).sandraandnathorixare("GONE","Your Roblox Username") - Nebula star glitcher
+
+require(2909209825).load"Your Roblox Username" - Broken Gladiator_LS
+
+require(2872994194).bruh("moment","n word","Your Roblox Username") - Grab Knife V4 (all modes but broken asf)
+
+require(2603308233).load"Your Roblox Username" - Bike
+
+require(2654011167).load() - Mexican wall
+
+Screamer - require(03091272839).load("Your Roblox Username")
+
+require(2673009791).load"Your Roblox Username" - Killbot
+
+require(2845325548).uwu(game.Players.Your Roblox Username) - Trap Rifle
+
+require(2845358736).uwu(game.Players.Your Roblox Username) - Monika
+
+require(2845370647).uwu(game.Players.Your Roblox Username) - CKBackup Cop
+
+require(2845835890).ooga"Your Roblox Username" - Demon
+
+require(2845906776).ooga"Your Roblox Username" - Red sword
+
+require(2845929020).ooga"Your Roblox Username" - John Doe
+
+require(2847912217).load"Your Roblox Username" - gunjouner
+
+require(2847934044).load"Your Roblox Username" - pennywise
+
+require(2847950761).load"Your Roblox Username" - drone
+
+require(2847970827).load"Your Roblox Username" - voodoo child
+
+require(2850994438).load"Your Roblox Username" - MLG Gun
+
+require(2851024356).load"Your Roblox Username" - Topkeke Arms 2.0
+
+require(2851050332).load"Your Roblox Username" - Sans
+
+require(2852336223).load"Your Roblox Username" - Star Glitcher (like the 3th time that i put star glitcher)
+
+require(2852366537).load"Your Roblox Username" - Noobicider
+
+require(2852378277).load"Your Roblox Username" - Fangirl Killer
+
+require(2858525380).load"Your Roblox Username" - PUBG Pan
+
+require(2883339055).bruh("xdxdxd","owo uwu owo","Your Roblox Username") - Laser Guns
+
+require(2883353470).lolXD("sad boi","Your Roblox Username") - the cursed hand
+
+require(2883368151):Fire("weird flex","but ok","Your Roblox Username") - 6 swords
+
+require(2885143717).thinking("so","guys","we","did","it","Your Roblox Username") - Grab Knife V1
+
+require(2885169621).dontcare("n0b","Your Roblox Username") - Blazing heart sword

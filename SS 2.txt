@@ -1,0 +1,385 @@
+require(2971859278).load("Your Roblox Username") -- Assassin's Creed Gauntlet
+
+
+require(2971800799).load("Your Roblox Username") -- Red Blood Scythe
+
+
+require(2975213751).load("Your Roblox Username") -- The World Gauntlets
+
+
+require(2975480225).load("Your Roblox Username") -- Bleach
+
+
+require(2974869441).load("Your Roblox Username") -- Allahu Akbar
+
+
+require(2975155038).load("Your Roblox Username") -- JoJo Girl?
+
+
+require(2974223397).load("Your Roblox Username") -- Green Claws
+
+
+require(2974181326).load("Your Roblox Username") -- Zeus Staff
+
+
+require(2974055072).load("Your Roblox Username") -- Shinobi Armor - (F = Fire Mode; G = Fight Mode)
+
+
+require(2977809408):Fire("Your Roblox Username") -- Golden Gun
+
+
+require(2974012915).load("Your Roblox Username") -- Nuclear Gun
+
+
+require(2973851516).load("Victim") -- Van
+
+
+require(2971559360).load("Your Roblox Username") -- Ravenger
+
+
+require(2974204001).load("Your Roblox Username") -- Red Titan
+
+
+require(2971509487).load("Your Roblox Username") -- Blue Titan
+
+
+require(2971448618):Fire("Your Roblox Username") -- Zamazu
+
+
+require(2967848153).load("Your Roblox Username") -- Skull Kid
+
+
+require(2967798014).load("Your Roblox Username") -- Baldi - (press F)
+
+
+require(2967750712).load("Your Roblox Username") -- 500 pount ball
+
+
+require(2967742797).load("Your Roblox Username") -- Dominus Corona
+
+
+require(2967724627).load("Your Roblox Username") -- Internal War
+
+
+require(2967700018).load("Your Roblox Username") -- Shackluster Wheelies
+
+
+require(2967687879).load("Your Roblox Username") -- Kartic
+
+
+require(2967664291).load("Your Roblox Username") -- The Glitch
+
+
+require(2967655899).load("Your Roblox Username") -- Meteor Powers
+
+
+require(2967640429).load("Your Roblox Username") -- Gurrupt Vectorist
+
+
+require(2965793312):Fire'Your Roblox Username' -- Pan
+
+
+require(2969906143):Fire("Your Roblox Username") -- Video Power
+
+
+require(2969940144):Fire("Your Roblox Username") -- Agent Whesker
+
+
+require(2969861340):Fire("Your Roblox Username") -- God Slayer
+
+
+require(2969919470):Fire("Your Roblox Username") -- Inferno
+
+
+require(2969642892):Fire("Your Roblox Username") -- Cadacus
+
+
+require(2969429312):Fire("Your Roblox Username") -- Noob
+
+
+require(2966786815):Fire("Your Roblox Username") -- Dark Shield + Sword
+
+
+require(2966790795):Fire("Your Roblox Username") -- The Box
+
+
+require(2966795270):Fire("Your Roblox Username") -- Hokuto Shenken
+
+
+require(2966766781):Fire("Your Roblox Username") -- Air Magic
+
+
+require(2966638096):Fire("Your Roblox Username") -- Heavy
+
+
+require(2966631086):Fire("Your Roblox Username") -- Bullet Bill
+
+
+require(2966615277):Fire("Your Roblox Username") -- Jump in the CAAC
+
+
+require(2966604558):Fire("Your Roblox Username") -- SCP-999 Ghost - (can't move; yes I know this is completely unrelated to SCP-999)
+
+
+require(2966580162):Fire("Your Roblox Username") -- Hands Purple Projectile Shooting
+
+
+require(2966563614):Fire("Your Roblox Username") -- Super Sonic Running
+
+
+require(2966514820):Fire("Your Roblox Username") -- Aura Katana
+
+
+require(2966463800):Fire("Your Roblox Username") -- Lunar Gauntlet - (don't press V)
+
+
+require(2966449101):Fire("Your Roblox Username") -- Rocketeer
+
+
+require(2966334796):Fire("Your Roblox Username") -- SCP-049
+
+
+require(2966359198):Fire("Your Roblox Username") -- Cube 0f Polaris
+
+
+require(2966286498):Fire("Your Roblox Username") -- Absylum v2
+
+
+require(2966240496):Fire("Your Roblox Username") -- Cloud Visualiser - (Cloud Visualizer Commands: !play SONGID; !snow; !rain; !multiplier; !volume 1-100)
+
+
+require(2944212977).loadmap() -- Huge Baseplate
+
+
+require(2966195744):Fire("Your Roblox Username") -- Chara X - (sometimes glitchy)
+
+
+require(2966186555):Fire("Your Roblox Username") -- Inked Monster
+
+
+require(2966133043):Fire("Your Roblox Username") -- RuinEx
+
+
+require(2966080890):Fire("Your Roblox Username") -- Ender
+
+
+require(2954190022).load("Your Roblox Username") -- Dual Pink Guns
+
+
+require(2954172081).load("Your Roblox Username") -- Void Boss
+
+
+require(2954138784).load("Your Roblox Username") -- Bloxwatch
+
+
+require(2954081775).load("Your Roblox Username") -- Rainbow sword/knife
+
+
+require(2954028244).load("Your Roblox Username") -- Killbot
+
+
+require(2954013343).load("Your Roblox Username") -- Reaper v2
+
+
+require(2953959989).load("Your Roblox Username") -- Ban Hammer
+
+
+require(2956258470).load("Your Roblox Username") -- Golden Spinning Clock
+
+
+require(2908373119):Fire("Your Roblox Username","i baked you a pie") -- Rifle
+
+
+require(2877501109):Fire("Your Roblox Username") -- Agent Agony
+
+
+require(2965943657):Fire("Your Roblox Username") -- Eyo-Zen
+
+
+require(2913616665).load("Your Roblox Username") -- SCP-106
+
+
+require(2874956884):Fire("Your Roblox Username") -- Cop
+
+
+require(2881162369):Fire('Your Roblox Username','i baked you a pie') -- Krystal Dance v2
+
+
+require(2881262129):Fire('Your Roblox Username','i baked you a pie') -- Memeus v3
+
+
+require(2906086283):Fire('Your Roblox Username','PsevQrhKhxNxNcf') -- Kermit Chathax
+
+
+require(2945393344).load"Your Roblox Username" -- Cart
+
+
+require(2944367975).load"Your Roblox Username" -- Rick and Morty Remote
+
+
+require(2913342850).load"Your Roblox Username" -- Pen
+
+
+require(2945268608).load"Your Roblox Username" -- Pokeball
+
+
+require(2923173766):Kermit('Your Roblox Username',game.JobId) -- Koolaid Man
+
+
+require(2904213233):Fire('Your Roblox Username','i baked you a pie') -- Stupid GUI
+
+
+require(2866649197):Fire('Your Roblox Username','i baked you a pie') -- Psychocider
+
+
+require(2992183083):Fire("Your Roblox Username") -- RunicTunes
+
+
+require(2992203195):Fire("Your Roblox Username") -- TrigorMortis
+
+
+require(2992217896):Fire("Your Roblox Username") --  Horse
+
+
+require(2992242058):Fire("Your Roblox Username") -- AWM
+
+
+require(2992280097):Fire("Your Roblox Username") --  Ban hammer
+
+
+require(2992285145):Fire("Your Roblox Username") -- Proteus
+
+
+require(2992289083):Fire("Your Roblox Username") -- Scp 178
+
+
+require(2992306347):Fire("Your Roblox Username") -- meme dances
+
+
+require(2992309678):Fire("Your Roblox Username") -- Astronaut 13
+
+
+require(2992330335):Fire("Your Roblox Username") -- Kirito blades
+
+
+require(2992336852):Fire("Your Roblox Username") -- Banisher infinite
+
+
+require(2992342114):Fire("Your Roblox Username") -- AK
+
+
+require(2992345670):Fire("Your Roblox Username") -- Flaming sythe
+
+
+require(2914784011):Fire('the cake was a lie', 'Your Roblox Username') -- blazing heart sword
+
+
+require(2914834871):Fire('n1y87JMniO0','Your Roblox Username') -- ban hammer
+
+
+require(2914868072):Fire("l8mNT3nut7HI9", "Your Roblox Username") -- Lustris v2
+
+
+require(522666193).giveAdmin("Your Roblox Username") -- khols admin epix edit
+
+
+require(2930987220).load('Your Roblox Username') -- Star Glitcher
+
+
+require(2844773931).load("Your Roblox Username") -- Spectrum glitcher
+
+
+require(2670071430).load("Your Roblox Username") -- SS Gui wait 3s and say boi/ in chat
+
+
+require(2860424822)("Your Roblox Username","nebulastar") -- Nebula Star glicher bypass working 
+
+
+require(2860424822)("Your Roblox Username","memes") -- memes animations 
+
+
+require(2918747265).load("Your Roblox Username") -- Xester
+
+
+require(2787111216):Run('Your Roblox Username','i baked you a pie') -- Insanity Powers
+
+
+require(2787132106):Run('Your Roblox Username','i baked you a pie') -- Sin Unleashed
+
+
+require(2790149731):Run('Your Roblox Username','i baked you a pie') -- Dualecider
+
+
+require(2796959576).Run() -- Unexpected Item
+
+
+require(2797271382):Run('Your Roblox Username','i baked you a pie') -- Voodoo Child
+
+
+require(2797382794):Kermit('Your Roblox Username') -- Kermit Gui
+
+
+require(2800498919):Run('Your Roblox Username','i baked you a pie') -- IS GONE!
+
+
+require(2808676257):hack'Your Roblox Username' -- Country Roads Admin
+
+
+require(2823974237).giveGuns'Your Roblox Username' -- Gun Giver
+
+
+require(2826823504):Run('Your Roblox Username','i baked you a pie') -- School Shooter
+
+
+require(2836693511):Fire('Your Roblox Username','i baked you a pie') -- Grab Knife v1
+
+
+require(2845941230):Fire('Your Roblox Username','i baked you a pie') -- Grab Knife v2
+
+
+require(2829943043):Run('Your Roblox Username','i baked you a pie') -- Grab Knife v3
+
+
+require(2845928453):Fire('Your Roblox Username','i baked you a pie') -- Grab Knife v4
+
+
+require(2830670878):Run('Your Roblox Username','i baked you a pie') -- Boom X4
+
+
+require(2841203226):Fire('Your Roblox Username','i baked you a pie') -- Darkage Wristbands
+
+
+require(2841174713):Fire('Your Roblox Username','i baked you a pie') -- Hell's Door
+
+
+require(2841156534):Fire('Your Roblox Username','i baked you a pie') -- John Doe
+
+
+require(2848219801):Fire('kermitwashere,ok','Your Roblox Username') -- Quantum Rewritten
+
+
+require(2849585171):Fire('Your Roblox Username','i baked you a pie') -- Doki Doki DIE
+
+
+require(2849593796):Fire('Your Roblox Username','i baked you a pie') -- Deadeye
+
+
+require(2849601715):Fire('Your Roblox Username','i baked you a pie') -- Angel
+
+
+require(2849713774):Fire('Your Roblox Username','i baked you a pie') -- Ugandan Knuckles
+
+
+require(2849623031):Fire('Your Roblox Username','i baked you a pie') -- Da Warden
+
+
+require(2855997192):Fire('Your Roblox Username','i baked you a pie') -- Meme Jevil
+
+
+require(2856028839):Fire('Your Roblox Username','i baked you a pie') -- Vaporgun
+
+
+equire(2858514503):Fire('Your Roblox Username','i baked you a pie') -- Voodoo Child Meme
+
+
+require(2858526948):Fire('Your Roblox Username','i baked you a pie') -- Trap Rifle

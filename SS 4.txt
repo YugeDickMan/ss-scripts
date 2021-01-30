@@ -1,0 +1,479 @@
+
+:beginner: 1x1x1x1
+require(2892305313):Fire"haxer"
+
+
+:beginner: Anti-Ban
+require(2788315378).load("         ",{"Whitelist","Whitelist","Whitelist","Whitelist","Whitelist"})
+
+
+:exclamation: Music Visualizer
+require(2966240496):Fire("Asargoven")
+
+
+:globe_with_meridians: CoolModules GUI
+require(3025905773).naenae("Asargoven")
+
+
+:shield: Bypassed Image
+require(2609492131).load"Asargoven"
+
+
+:exclamation: Claws
+require(2976384666).load('Asargoven')
+
+
+:globe_with_meridians: Crab Rave
+require(2800498919):Run('Asargoven','i baked you a pie')
+
+
+:exclamation: Dark Wristbands
+require(2841203226):Fire('Asargoven','i baked you a pie')
+
+
+:exclamation: Drawing Tool
+require(3024941794).load("Asargoven")
+
+
+:beginner: GRAB KNIVES
+V1: require(2836693511):Fire('Player','i baked you a pie')
+V2: require(2845941230):Fire('Player','i baked you a pie')
+V3: require(2829943043):Run('Player','i baked you a pie')
+V4: require(2829943043):Run('Player','i baked you a pie')
+
+:beginner: Hells Door
+require(2841174713):Fire('Asargoven','i baked you a pie')
+
+
+:exclamation: Inferno
+require(2976286678).Inferno('Asargoven')
+
+
+:globe_with_meridians: Insanity Powers
+require(2787111216):Run('Asargoven','i baked you a pie')
+
+
+:shield: : Infinite Yield
+require(3091204182)('Asargoven')
+
+
+:exclamation: Keemstar
+require(2500710590).load"Asargoven"
+
+
+:globe_with_meridians: John Doe
+require(2841156534):Fire('Asargoven','i baked you a pie')
+:beginner: Vaporwave
+require(2856028839):Fire('Asargoven','i baked you a pie')
+
+
+:exclamation: Candy Van
+require(2973851516).load("victemm!!!")
+
+
+:exclamation: V3rm Tabs
+require(2972286131).load("Asargoven")
+
+
+:exclamation: : Ultimate Trolling GUI
+require(3026164046):Fire("Asargoven")
+
+
+:globe_with_meridians: Knuckles
+require(2849713774):Fire('Asargoven','i baked you a pie')
+
+
+:globe_with_meridians: Trap Rifle
+require(2858526948):Fire('Asargoven','i baked you a pie')
+
+
+:beginner: Suicide Gun
+require(2971323006):Fire("Asargoven")
+
+
+:exclamation: Star Glitcher
+require(2930987220).load('Asargoven')
+
+
+:exclamation: RoXploit
+require(2972269104).load("Asargoven")
+
+
+:beginner: Red Titan
+require(2974204001).load("Asargoven")
+
+
+:globe_with_meridians: Quantom Admin
+require(2848219801):Fire('kermitwashere,ok',"Asargoven")
+
+
+:beginner: Mustard Gas
+require(2989312214).load("Asargoven")
+
+
+:globe_with_meridians: MML Admin
+require(2500605002).give"Asargoven"
+
+
+:exclamation: LUA Hammer
+require(2972284204).load("Asargoven")
+
+
+:grey_question: KoolAid Man
+require(2923173766):Kermit('Asargoven',game.JobId)
+
+:beginner: Gun Giver
+require(2823974237).giveGuns'Asargoven'
+:exclamation: v3rmillion tabs
+require(2972286131).load("Asargoven")
+:grey_question: Gunman
+require(2849593796):Fire('Asargoven','i baked you a pie')
+:exclamation: Brutal Furry
+require(2921581010):Fire("name")
+crazyexploitz27/04/2019
+:shield: @yesok credits
+require(3044375887):Fire("name") -- DEX Explorer 
+crazyexploitz27/04/2019
+:exclamation: Dev Uzi 
+require(2972256508).load("Asargoven")
+:grey_question: Hitler 
+require(2931582808):Fire('Urnamehaloser')
+:beginner: Memeus
+require(2919871363):Fire("name")
+:globe_with_meridians: orb man 
+require(2966037885 ).load"Asargoven"
+crazyexploitz27/04/2019
+:exclamation: police officer man used in my new video
+require(2845370647).uwu(game.Players.Asargoven)
+crazyexploitz27/04/2019
+:shield: AntiChat (Warning - Add your name to the whitelist, this makes it possible to chat. Basically any message will be replaced with whatever you put, which is [ Content Deleted ] by default.) 
+require(3059426757).load("[ Content Deleted ]",{"Asargoven","CarStereo7","peenlol123","CarStereo1","Mouse_ee"})
+:globe_with_meridians: Teskor Points 
+require(2796959576).Run()
+:beginner: Shooter 
+require(2826823504):Run('Player','i baked you a pie')
+React with :white_check_mark: if u want more
+Note: In order to use these scripts, you have to use a ServerSided Executor, such as Quantom, Exoliner, Clapper, or Photon, which can be found in #partners. If you want to try these scripts out for free, I recommend the place below, created by@ssgui https://discord.gg/MBwewG  https://www.roblox.com/games/3078779661/BACK-Server-Side-Script-Executor
+ROBLOX
+[BACK] Server Side Script Executor
+Check out [BACK] Server Side Script Executor. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. lol its back
+
+crazyexploitz27/04/2019
+:beginner: Kohls Admin 
+require(522666193).giveAdmin("Asargoven")
+UPDATE Added Symbols to show rarity
+Note: Please DM me if you feel one of these is incorrect
+
+- :skull: = Partially Working module (Not fully functional, either completely or partially broken)
+
+- :globe_with_meridians: = Common Module (Working, fully functional module that many people use)
+
+- :beginner: = Normal Module (Working, fully functional module that people don't use a lot)
+
+- :exclamation: = Rare Module (Working, fully functional module that is rare to see used in games, maybe was private at some point)
+
+- :shield: = Private Module (Working, fully functional module that was never before posted)
+
+- :grey_question: = Unknown (The rarity or functionality of this module is unknown, DM @crazyexploitz with a suggested rating for it to be added)
+
+- :x: = Broken/Closed Source module (A module that is no longer functioning. Will be removed from the list shortly after receiving this rating)
+crazyexploitz27/04/2019
+:beginner: Krystal Dance
+require(2881162369):Fire('Asargoven','i baked you a pie')
+math.isgay()28/04/2019
+:exclamation:Grab Gun 
+require(3055800684):Fireplace("name")
+crazyexploitz29/04/2019
+:exclamation: Neptunian V
+require(2698643702):Fire("Asargoven")
+yesok30/04/2019
+:exclamation: Centurion Admin 
+require(3087440760)("ParentalProblems")
+ INFO: In order to be whitelisted, you must buy the module (its free) and edit the first line on the module script; put your username where it says 'PROTOSM4SHER' -- old account dont bother looking through the inventory; everything's leaked.
+:skull: Hunting Rifle 
+require(2966130956)(game.Players.USERNAME)
+Black Koolaid30/04/2019
+:exclamation: Red Sword/1000 degree sword
+require(3040167400):Fire('USERNAMEGOESHERE','rememberladssubscribetopewdiepie')
+:beginner: Xester
+require(2918747265).load"name"
+:exclamation: Bleach
+require(2975480225).load("NameHere")
+Controls For Bleach: E = Drink
+also, you have to reset once the character is laying dead on the floor
+yesok01/05/2019
+http://www.filedropper.com/sssource
+crazyexploitz01/05/2019
+^ tons of ServerSided scripts are included in there.
+crazyexploitz05/05/2019
+:exclamation: Road Roller 
+require(2919371365):Fire("name")
+crazyexploitz05/05/2019
+:exclamation: The Warden, credits @math.quack(crazys big ass fan) 
+require(2849623031):Fire('danielqwww1','i baked you a pie')
+crazyexploitz05/05/2019
+Credits to @LuaBlue, thanks a lot!
+
+:shield: / :skull: Subway Map (Works, but missing a few walls)
+require(3122543318).johndoe()
+
+
+:shield: KFC Map
+require(3119155585).johndoe()
+
+
+:shield:/:skull: McDonalds Map (Works, but does not set spawn)
+require(1664208414).johndoe()
+
+
+:shield: CSGO Surf Kitsune Map
+require(2758958163).johndoe()
+:exclamation: Big Smoke credits to @BlueRed, but he left.
+require(3020580481).load("Namehereorsomthin")
+:exclamation: Shotgun Credits to @walkman15 
+require(3142277223).load"USERNameHereSirr"
+:exclamation: Topkek, All credits to @0xM00N 
+require(03099239207).die("NAME")
+crazyexploitz05/05/2019
+(Reminder, check what the emojis mean in the Pinned Message, or scroll up a little bit)
+LuaBlue05/05/2019
+:shield:  Sadist
+require(3093484026).load("name")
+:shield:  Neko Neko Knuckles
+require(3118028002).load("name here")
+crazyexploitz05/05/2019
+:beginner: Credits to @sochi (The rating was by @sochi)
+require(2959535061).load"Sochimagochi" -- rufus knife
+require(3034120739).load("Sochimagochi") -- will of justice
+require(3124202520).naenae("Sochimagochi")--bazooka
+require(3117037357).what("Sochimagochi")--pole
+require(3091645343).load("Sochimagochi")--goner
+require(3089206381).naenae("Sochimagochi")--draahzharhrharhzrhahrhahzharhzharh why 
+crazyexploitz05/05/2019
+:exclamation: Bang Script Credits to @SkullBitch 
+require(2976177033).load("Aziolarc", "victim")
+LuaBlue05/05/2019
+:shield:  Lustris Sword
+require(3149482104).load("name here")
+crazyexploitzLast Monday at 01:24
+:globe_with_meridians: Frying Pan, Credits @walkman15 
+require(2965793312):Fire'UserNameHere'
+:exclamation: Creep And Preech, Credits @RythZ 
+require(3007943127).load("RythZ")
+crazyexploitzLast Monday at 01:49
+:beginner: (Overall Rating) SS Script Pack by @RythZ, if you own any of these modules, please DM me
+Zamazu: require(2971448618):Fire("NAME")
+
+Blue Titan: require(2971509487).load("NAME")
+
+Red Titan: require(2974204001).load("NAME")
+
+Ravenger: require(2971559360).load("NAME") 
+
+Van: require(2973851516).load("Victim") 
+
+Nuclear Gun: require(2974012915).load("NAME")
+
+Golden Gun: require(2977809408):Fire("NAME")
+
+Shinobi Armor: require(2974055072).load("NAME")
+[F = FIRE MODE, G = FIGHT MODE]
+
+Zeus Staff: require(2974181326).load("NAME") 
+
+Green Claws: require(2974223397).load("NAME") 
+
+JOJO Girl?: require(2975155038).load("NAME")
+
+Allah Akbar: require(2974869441).load("NAME")
+
+Bleach: require(2975480225).load("NAME")
+
+The World Gauntlets: require(2975213751).load("NAME")
+
+Red Blood Scythe: require(2971800799).load("NAME")
+
+Assasins Creed Gauntlet: require(2971859278).load("NAME")
+
+Green Katana: require(2999405882).load"IditMasterIsBanned"
+
+Moon Rabbit: require(02986719790):Fire("MarxistBoy")
+
+Rape: require(2505714651).fuc("name","other name")
+
+Boi gui say boi/ in chat: require(nowork0).load("IditMasterIsBanned")
+
+John Dick: require(2973500268).load('Haudjf')
+
+HarleyQuinn: require(2979982450).load("Haudjf")
+
+Purple God: require(2980014573).load("Haudjf")
+
+Laptop Boss: require(3007931785).load("Haudjf")
+
+Creep n Preech: require(3007943127).load("Haudjf")
+
+Shooting Stars: require(3009265917).load"name"
+
+Playtime: require(3009322942).load"name"
+
+SuperSS: require(youthoughtxd).load"name"
+
+Noot Noot: require(3009468656).load"name"
+
+Pizza Guy: require(02980464351).load("canoncamps")
+
+Magician: require(3011952043):Fire("Name")
+
+Bad Cop Good Cop: require(2980021654).load("Haudjf")
+
+Railgun: require(03012094275):Fire("Name")
+Donald Trump Face: require(03012106361):Fire("Name")
+
+Donald Titan: require(03012128518):Fire("Name")
+
+WhatAnotherOne: require(03012174946):Fire("Name")
+
+Memeus V2: require(broke):Fire("Name")
+
+Bong and Cig: require(3013985920):Fire("Name")
+
+Meme Laptop: require(3014385841):Fire("Name")
+
+Dominus Titan: require(3014484511):Fire("Name")
+
+Pumpkin: require(3014455725):Fire("Name")
+
+Brutal Overlord: require(3014659552):Fire("Name")
+
+Noobbat: require(3014728667):Fire("Name")
+
+Despacito Spider: require(3014989148):Fire("Name")
+
+Fnaf Map: require(3015056020):Fire("Name")
+
+Hell: require(3015740733):Fire("Name")
+
+Icecream: require(3016095511):Fire("Name")
+
+Noobcider: require(3016806528):Fire("Name")
+https://www.roblox.com/catalog/03012212973/redirect
+
+(some of the above may be reposts)
+LuaBlueLast Monday at 15:10
+:shield:  6 Swords
+require(3151296283).johndoe("name here")
+LuaBlueLast Monday at 15:37
+:shield:  Fat Guy (Touch people to eat them)
+require(3151323443).fat("name here")
+LuaBlueLast Monday at 15:57
+:shield:  Wunderwaffe (Q to equip, R to reload. When all the lightbulbs go out, you have to reload. The lightbulbs are on the left side of the gun.)
+require(2755403941).johndoe("name here")
+LuaBlueLast Monday at 16:07
+:shield:  Dubstep Gun
+require(1694117690).johndoe("name here")
+math.isgay()Last Tuesday at 05:44
+:shield: KFC Map fixed
+require(3153253124):mc()
+LuaBlueLast Tuesday at 18:24
+:exclamation: Red Beeping Bomb Vest (Destructive, unanchors stuff around you) 
+require(2783787026):Fire('fg54hy7n5brtevrg4thb5y',"name here")
+LuaBlueLast Tuesday at 19:05
+:shield:  Natural Disaster Survival Racing Track Map
+require(3154616429).johndoe()
+yesokLast Wednesday at 05:36
+:grey_question: red grab knife v4 edit (by me nerds) 
+require(3040167400):Fire('name','rememberladssubscribetopewdiepie')
+ probably posted already i dont remember ok
+yesokLast Thursday at 12:32
+:shield: the thonker executor i made that was based off of exoliner's gui. here nerds 
+require(3157913874).goawayskid("your name goes in here","staceywho")
+ yeah deob it and skid it whatever noobs
+react with "SKID" if i should release the deobed version.
+so you can skid like a pro :sunglasses:
+crazyexploitzLast Thursday at 22:14
+:exclamation: SS Scripts by @hornyniggalaundrybasket
+Ethreal Glitcher V1: require(2560732565).ethe("NameHere")
+Ethreal Glitcher V2:  require(2991936409).load("NameHere")
+Big Ban Hammer: require(2560689416).bban("NameHere")
+Univeral Glitcher V1: require(2632963364).ug("NameHere")
+crazyexploitzLast Thursday at 22:41
+:exclamation: Server Admin 
+require(3083168821).load("skidnamehere")
+ Credits @RythZ
+Blind Reaper Credits to @RythZ 
+require(3083480987).load("skidnameherexd")
+:information_source: What are your thoughts on this module pack so far
+​
+​
+:thumbsup: = I like it
+
+:ok: = It's fine
+
+:thumbsdown: = Not a fan
+crazyexploitzLast Friday at 00:30
+UTG Remake, credits @scuffed ice poseidon 
+require(2993514878)Fire("name")
+RythZLast Friday at 02:47
+:exclamation:  require(3149859228).load('name') - Void 
+(Credit to @ディヴェルニ   )
+RythZLast Friday at 03:14
+:globe_with_meridians:Script Pack Leaked By @RythZ 
+Harley Quinn: require(2979982450).load("skidnamehere")
+
+Pizza Guy: require(02980464351).load("skidnamehere")
+
+Maddox: require(2996270076).load("skidnamehere")
+
+require(03012094275):Fire("skidnamehere")
+
+Pumpkin: require(3014455725):Fire("skidnamehere")
+RythZLast Friday at 04:09
+:exclamation: Memeus v2 Credits To @RythZ Requested By @WRT1900AC 
+require(3162283583).load('skidnamehere')
+:heart_exclamation: Claws v2 (used to be rare it was leaked a while back) Credits To @RythZ 
+require(3083142303).load("skidnamehere")
+crazyexploitzLast Friday at 05:40
+:exclamation: Switcher V2, Credits to @hornyniggalaundrybasket 
+require(2605260171).load("NameHere")
+crazyexploitzLast Friday at 05:49
+@Bee
+crazyexploitzLast Friday at 06:06
+:shield: idk what it is but its cool, credits to @Samister 
+require(3083480987).load("skidnameherexd")
+crazyexploitzLast Friday at 15:44
+:exclamation: Flandre Scarlet credits @This is fine
+require(3157092636).load"Urname"
+I will correctly format when I get home ^
+RythZLast Friday at 15:46
+:globe_with_meridians: GoodCopBadCop Credits To @RythZ 
+require(2980021654).load("skidnamehere")
+RythZLast Friday at 17:20
+:exclamation: -=Lost Hope=- Credits To @This is fine  
+require(3163467952).load"GiveMeUrName"
+LuaBlueLast Friday at 19:10
+:shield:  LuaBlue's Trolling Gears (The "LuaBlue" part is the passcode for the module, just leave it alone so the module will work.)
+require(3164199134).johndoe("name here","LuaBlue")
+yesokYesterday at 04:03
+:urmom: just sniper edits i made 
+grey sniper - require(3030333972):Fire("name","LOL")
+blue sniper - require(3030293861):Fire("name","LOL")
+black sniper - require(3030313513):Fire("name","LOL")
+ btw u got bamboozled if u thought i was gonna release deobed version hahahah!!!!
+:yesok: futuristic sniper 
+require(3048712764):Fire("name","LOL")
+:heythatsprettygood: infinite yeild admin 
+require(3050579775)("name")
+math.trypozz(Crazy's Dad)Yesterday at 23:40
+:shield: Converted by me :heart: its a hammer btw
+require(3161471221):Fire("YourUsernameHere")
+RythZToday at 00:28
+:globe_with_meridians: Some Bad Lookin Executor I Made 
+require(3169398896).rythziscool('skidnamehere')
+LOLERNToday at 16:52
+require(3082760876):Fire("Name")
+
+Converted By Me
+ Dark Eccentric Wrench
+Only LMB Attack Works For Some Reason
+:skull:
